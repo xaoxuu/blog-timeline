@@ -1,4 +1,6 @@
 {
+  "image": "<p><img src='${src}' width='300px'></p>",
+  "video": "<video src='${src}' width='300px' controls></video>",
   "rewrites": [
     {
       "source": "/assets/(.*)", 
