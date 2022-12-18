@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "assets/(.*)", 
+      "destination": "https://assets.xaoxuu.com/timeline/$1"
+    }
+  ]
+}
