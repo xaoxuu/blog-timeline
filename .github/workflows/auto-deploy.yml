@@ -1,7 +1,7 @@
 name: auto deploy # workflow name
 
 on:
-  push:
+  # push:
   workflow_dispatch:
 
 jobs:
